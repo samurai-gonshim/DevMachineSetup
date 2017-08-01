@@ -154,6 +154,9 @@ autocmd cursormoved * set hlsearch
 " Show Bookmarks
 let g:NERDTreeShowBookmarks=1"
 
+" Neocomplete setups
+let g:neocomplete#enable_at_startup = 1
+
 " Remove search results
 command! H let @/=""
 
