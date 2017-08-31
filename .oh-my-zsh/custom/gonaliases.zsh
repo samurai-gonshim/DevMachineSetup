@@ -19,6 +19,7 @@ alias sozsh='source ~/.zshrc'
 #alias subl='sublime'
 alias h='history'
 alias code='cd ~/Code'
+alias art='php artisan'
 
 #-------------
 # git aliases
